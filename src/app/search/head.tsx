@@ -4,7 +4,7 @@ function Head() {
   return (
     <>
       <title>Search restaurant</title>
-      <meta name="description">bla bla</meta>
+      <meta name="description" />
       <link rel={"icon"} href="/dasdma" />
     </>
   );
