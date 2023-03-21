@@ -2,7 +2,7 @@
   "name": "restaurant-reservation",
   "version": "0.1.0",
   "engines": {
-    "node": "8.13.0",
+    "node": "18.13.0",
     "npm": "8.19.3"
   },
   "private": true,
